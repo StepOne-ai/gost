@@ -1,5 +1,5 @@
 ---
-name: "gost-rpz"
+name: "gost"
 description: "Use when creating, checking or editing Russian РПЗ, пояснительные записки, курсовые, research reports and lab reports (отчёты по лабораторным) in DOCX/PDF with ГОСТ formatting, table/listing continuations, page numbering or preserved pagination."
 ---
 
